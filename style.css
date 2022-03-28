@@ -114,4 +114,26 @@ a{
     color: grey;
 }
 
+.quote-section{
+    background-color: #E5E7EB;
+    padding: 100px;
+    
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: lighter;
+    margin-left: 204px;
+    margin-right: 204px;
+}
+
+.person{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    margin-right: 204px;
+}
+
 
